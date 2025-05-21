@@ -67,3 +67,14 @@ body{
     border-radius: 8px;
 }
 
+/* @media screen and (max-width: 768px) {
+    .conatiner{
+        width: 100%;
+    }
+    .clock span{
+    position: absolute;
+    transform: rotate(calc(30deg * var(--i)));
+    inset: 330px;
+    text-align: center;
+    }
+} */
